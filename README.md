@@ -23,7 +23,7 @@ https://second-hand-client.onrender.com/
 1. **Clone the Repository:**
 
 ```
-git clone "https://github.com/Kraizan/Second-Hand"
+git clone "https://github.com/asqar268008/EcoFinds.git"
 cd Second-Hand
 ```
 
@@ -72,3 +72,4 @@ This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.
 ---
 
 Thank you for using **Second Hand**! Happy buying and selling! 🌱🛍️
+
